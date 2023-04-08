@@ -2,14 +2,14 @@
 
 I'm a Data Scientist focusing on NLP related applications.
 
--  I’m currently working on ...
-    * Retrieval
+-  Currently working on:
+    * Retrieval, Knowledge Graph
     * LLM, Parameter-Efficient Fine-Tuning
 
--  I’m currently learning ...
+-  Learning:
     * RLHF
     * Multimodal Models
 
-- I’m currently active in Kaggle & Twitter
+- Kaggle & Twitter:
     * https://www.kaggle.com/conjuring92
     * https://twitter.com/raja_biswas
