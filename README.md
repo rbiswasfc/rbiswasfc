@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**rbiswasfc/rbiswasfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a Data Scientist focusing on NLP related applications.
 
 - 🔭 I’m currently working on ...
+    * LLM
+    * Retrieval
+    * Parameter-Efficient Fine-Tuning
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    * RLHF
+    * Deep RL
+    * Multimodal Models
+
+- 🌱 I’m currently active in Kaggle, Twitter and Huggingface
+    * https://www.kaggle.com/
+    * https://twitter.com/raja_biswas
+    * https://huggingface.co/rbiswasfc
