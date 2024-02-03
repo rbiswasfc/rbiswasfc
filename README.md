@@ -7,9 +7,9 @@ I'm a Data Scientist focusing on NLP related applications.
     * LLM, Parameter-Efficient Fine-Tuning
 
 -  Learning:
-    * Alignment Tuning
-    * Multimodal Models
-    * Speech Recognition
+    * Reinforment Learning
+    * Multimodality
+    * CUDA programming
 
 - Kaggle & Twitter:
     * https://www.kaggle.com/conjuring92
